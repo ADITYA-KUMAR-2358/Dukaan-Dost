@@ -1,0 +1,649 @@
+date,invoice_number,product_name,sku,category,quantity,selling_price,unit_cost,current_stock,in_stock,supplier,lead_time_days,pack_size,moq,min_stock
+2026-07-01,INV-20260701,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-01,INV-20260701,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-01,INV-20260701,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-01,INV-20260701,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-01,INV-20260701,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-01,INV-20260701,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-02,INV-20260702,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-02,INV-20260702,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-02,INV-20260702,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-02,INV-20260702,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-02,INV-20260702,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-02,INV-20260702,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-03,INV-20260703,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-03,INV-20260703,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-03,INV-20260703,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-03,INV-20260703,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-03,INV-20260703,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-03,INV-20260703,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-07-03,INV-20260703,Ayurvedic Hair Oil,OIL-01,Slow,1,180,120,,yes,Neighbourhood Pharma,10,1,1,2
+2026-07-03,INV-20260703,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-04,INV-20260704,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-04,INV-20260704,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-04,INV-20260704,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-04,INV-20260704,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-04,INV-20260704,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-04,INV-20260704,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-05,INV-20260705,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-05,INV-20260705,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-05,INV-20260705,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-05,INV-20260705,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-05,INV-20260705,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-05,INV-20260705,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-06,INV-20260706,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-06,INV-20260706,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-06,INV-20260706,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-06,INV-20260706,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-06,INV-20260706,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-06,INV-20260706,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-07,INV-20260707,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-07,INV-20260707,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-07,INV-20260707,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-07,INV-20260707,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-07,INV-20260707,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-07,INV-20260707,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-08,INV-20260708,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-08,INV-20260708,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-08,INV-20260708,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-08,INV-20260708,Cycle Agarbatti,AGAR-01,Pooja,2,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-08,INV-20260708,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-08,INV-20260708,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-09,INV-20260709,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-09,INV-20260709,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-09,INV-20260709,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-09,INV-20260709,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-09,INV-20260709,Raincoat Medium,RAIN-M,Seasonal,6,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-09,INV-20260709,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-07-09,INV-20260709,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-10,INV-20260710,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-10,INV-20260710,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-10,INV-20260710,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-10,INV-20260710,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-10,INV-20260710,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-10,INV-20260710,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-11,INV-20260711,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-11,INV-20260711,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-11,INV-20260711,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-11,INV-20260711,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-11,INV-20260711,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-11,INV-20260711,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-12,INV-20260712,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-12,INV-20260712,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-12,INV-20260712,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-12,INV-20260712,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-12,INV-20260712,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-12,INV-20260712,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-13,INV-20260713,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-13,INV-20260713,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-13,INV-20260713,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-13,INV-20260713,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-13,INV-20260713,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-13,INV-20260713,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-14,INV-20260714,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-14,INV-20260714,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-14,INV-20260714,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-14,INV-20260714,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-14,INV-20260714,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-14,INV-20260714,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-15,INV-20260715,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-15,INV-20260715,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-15,INV-20260715,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-15,INV-20260715,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-15,INV-20260715,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-15,INV-20260715,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-07-15,INV-20260715,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-16,INV-20260716,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-16,INV-20260716,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-16,INV-20260716,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-16,INV-20260716,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-16,INV-20260716,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-16,INV-20260716,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-17,INV-20260717,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-17,INV-20260717,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-17,INV-20260717,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-17,INV-20260717,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-17,INV-20260717,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-17,INV-20260717,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-18,INV-20260718,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-18,INV-20260718,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-18,INV-20260718,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-18,INV-20260718,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-18,INV-20260718,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-18,INV-20260718,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-19,INV-20260719,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-19,INV-20260719,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-19,INV-20260719,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-19,INV-20260719,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-19,INV-20260719,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-19,INV-20260719,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-20,INV-20260720,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-20,INV-20260720,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-20,INV-20260720,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-20,INV-20260720,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-20,INV-20260720,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-20,INV-20260720,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-21,INV-20260721,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-21,INV-20260721,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-21,INV-20260721,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-21,INV-20260721,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-21,INV-20260721,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-21,INV-20260721,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-07-21,INV-20260721,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-22,INV-20260722,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-22,INV-20260722,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-22,INV-20260722,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-22,INV-20260722,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-22,INV-20260722,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-22,INV-20260722,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-23,INV-20260723,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-23,INV-20260723,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-23,INV-20260723,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-23,INV-20260723,Cycle Agarbatti,AGAR-01,Pooja,3,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-23,INV-20260723,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-23,INV-20260723,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-24,INV-20260724,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-24,INV-20260724,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-24,INV-20260724,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-24,INV-20260724,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-24,INV-20260724,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-24,INV-20260724,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-25,INV-20260725,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-25,INV-20260725,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-25,INV-20260725,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-25,INV-20260725,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-25,INV-20260725,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-25,INV-20260725,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-26,INV-20260726,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-26,INV-20260726,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-26,INV-20260726,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-26,INV-20260726,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-26,INV-20260726,Raincoat Medium,RAIN-M,Seasonal,5,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-26,INV-20260726,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-27,INV-20260727,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-27,INV-20260727,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-27,INV-20260727,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-27,INV-20260727,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-27,INV-20260727,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-27,INV-20260727,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-07-27,INV-20260727,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-28,INV-20260728,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-28,INV-20260728,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-28,INV-20260728,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-28,INV-20260728,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-28,INV-20260728,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-28,INV-20260728,Ayurvedic Hair Oil,OIL-01,Slow,1,180,120,,yes,Neighbourhood Pharma,10,1,1,2
+2026-07-28,INV-20260728,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-29,INV-20260729,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-29,INV-20260729,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-29,INV-20260729,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-29,INV-20260729,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-29,INV-20260729,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-29,INV-20260729,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-30,INV-20260730,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-30,INV-20260730,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-30,INV-20260730,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-30,INV-20260730,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-30,INV-20260730,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-30,INV-20260730,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-07-31,INV-20260731,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-07-31,INV-20260731,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-07-31,INV-20260731,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-07-31,INV-20260731,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-07-31,INV-20260731,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-07-31,INV-20260731,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-01,INV-20260801,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-01,INV-20260801,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-01,INV-20260801,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-01,INV-20260801,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-01,INV-20260801,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-01,INV-20260801,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-02,INV-20260802,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-02,INV-20260802,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-02,INV-20260802,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-02,INV-20260802,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-02,INV-20260802,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-02,INV-20260802,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-08-02,INV-20260802,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-03,INV-20260803,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-03,INV-20260803,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-03,INV-20260803,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-03,INV-20260803,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-03,INV-20260803,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-03,INV-20260803,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-04,INV-20260804,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-04,INV-20260804,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-04,INV-20260804,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-04,INV-20260804,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-04,INV-20260804,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-04,INV-20260804,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-05,INV-20260805,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-05,INV-20260805,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-05,INV-20260805,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-05,INV-20260805,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-05,INV-20260805,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-05,INV-20260805,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-06,INV-20260806,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-06,INV-20260806,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-06,INV-20260806,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-06,INV-20260806,Cycle Agarbatti,AGAR-01,Pooja,4,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-06,INV-20260806,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-06,INV-20260806,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-07,INV-20260807,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-07,INV-20260807,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-07,INV-20260807,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-07,INV-20260807,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-07,INV-20260807,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-07,INV-20260807,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-08,INV-20260808,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-08,INV-20260808,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-08,INV-20260808,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-08,INV-20260808,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-08,INV-20260808,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-08,INV-20260808,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-08-08,INV-20260808,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-09,INV-20260809,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-09,INV-20260809,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-09,INV-20260809,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-09,INV-20260809,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-09,INV-20260809,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-09,INV-20260809,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-10,INV-20260810,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-10,INV-20260810,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-10,INV-20260810,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-10,INV-20260810,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-10,INV-20260810,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-10,INV-20260810,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-11,INV-20260811,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-11,INV-20260811,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-11,INV-20260811,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-11,INV-20260811,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-11,INV-20260811,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-11,INV-20260811,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-12,INV-20260812,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-12,INV-20260812,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-12,INV-20260812,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-12,INV-20260812,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-12,INV-20260812,Raincoat Medium,RAIN-M,Seasonal,4,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-12,INV-20260812,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-13,INV-20260813,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-13,INV-20260813,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-13,INV-20260813,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-13,INV-20260813,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-13,INV-20260813,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-13,INV-20260813,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-14,INV-20260814,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-14,INV-20260814,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-14,INV-20260814,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-14,INV-20260814,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-14,INV-20260814,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-14,INV-20260814,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-08-14,INV-20260814,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-15,INV-20260815,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-15,INV-20260815,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-15,INV-20260815,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-15,INV-20260815,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-15,INV-20260815,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-15,INV-20260815,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-16,INV-20260816,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-16,INV-20260816,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-16,INV-20260816,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-16,INV-20260816,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-16,INV-20260816,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-16,INV-20260816,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-17,INV-20260817,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-17,INV-20260817,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-17,INV-20260817,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-17,INV-20260817,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-17,INV-20260817,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-17,INV-20260817,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-18,INV-20260818,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-18,INV-20260818,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-18,INV-20260818,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-18,INV-20260818,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-18,INV-20260818,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-18,INV-20260818,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-19,INV-20260819,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-19,INV-20260819,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-19,INV-20260819,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-19,INV-20260819,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-19,INV-20260819,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-19,INV-20260819,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-20,INV-20260820,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-20,INV-20260820,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-20,INV-20260820,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-20,INV-20260820,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-20,INV-20260820,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-20,INV-20260820,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-08-20,INV-20260820,Ayurvedic Hair Oil,OIL-01,Slow,1,180,120,,yes,Neighbourhood Pharma,10,1,1,2
+2026-08-20,INV-20260820,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-21,INV-20260821,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-21,INV-20260821,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-21,INV-20260821,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-21,INV-20260821,Cycle Agarbatti,AGAR-01,Pooja,5,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-21,INV-20260821,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-21,INV-20260821,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-22,INV-20260822,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-22,INV-20260822,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-22,INV-20260822,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-22,INV-20260822,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-22,INV-20260822,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-22,INV-20260822,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-23,INV-20260823,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-23,INV-20260823,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-23,INV-20260823,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-23,INV-20260823,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-23,INV-20260823,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-23,INV-20260823,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-24,INV-20260824,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-24,INV-20260824,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-24,INV-20260824,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-24,INV-20260824,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-24,INV-20260824,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-24,INV-20260824,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-25,INV-20260825,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-25,INV-20260825,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-25,INV-20260825,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-25,INV-20260825,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-25,INV-20260825,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-25,INV-20260825,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-26,INV-20260826,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-26,INV-20260826,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-26,INV-20260826,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-26,INV-20260826,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-26,INV-20260826,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-26,INV-20260826,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-08-26,INV-20260826,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-27,INV-20260827,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-27,INV-20260827,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-27,INV-20260827,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-27,INV-20260827,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-27,INV-20260827,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-27,INV-20260827,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-28,INV-20260828,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-28,INV-20260828,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-28,INV-20260828,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-28,INV-20260828,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-28,INV-20260828,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-28,INV-20260828,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-29,INV-20260829,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-29,INV-20260829,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-29,INV-20260829,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-29,INV-20260829,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-29,INV-20260829,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-29,INV-20260829,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-30,INV-20260830,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-30,INV-20260830,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-30,INV-20260830,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-30,INV-20260830,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-30,INV-20260830,Raincoat Medium,RAIN-M,Seasonal,3,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-30,INV-20260830,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-08-31,INV-20260831,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-08-31,INV-20260831,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-08-31,INV-20260831,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-08-31,INV-20260831,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-08-31,INV-20260831,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-08-31,INV-20260831,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-01,INV-20260901,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-01,INV-20260901,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-01,INV-20260901,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-01,INV-20260901,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-01,INV-20260901,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-01,INV-20260901,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-09-01,INV-20260901,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-02,INV-20260902,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-02,INV-20260902,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-02,INV-20260902,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-02,INV-20260902,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-02,INV-20260902,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-02,INV-20260902,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-03,INV-20260903,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-03,INV-20260903,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-03,INV-20260903,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-03,INV-20260903,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-03,INV-20260903,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-03,INV-20260903,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-04,INV-20260904,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-04,INV-20260904,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-04,INV-20260904,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-04,INV-20260904,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-04,INV-20260904,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-04,INV-20260904,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-05,INV-20260905,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-05,INV-20260905,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-05,INV-20260905,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-05,INV-20260905,Cycle Agarbatti,AGAR-01,Pooja,6,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-05,INV-20260905,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-05,INV-20260905,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-06,INV-20260906,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-06,INV-20260906,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-06,INV-20260906,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-06,INV-20260906,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-06,INV-20260906,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-06,INV-20260906,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-07,INV-20260907,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-07,INV-20260907,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-07,INV-20260907,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-07,INV-20260907,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-07,INV-20260907,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-07,INV-20260907,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-09-07,INV-20260907,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-08,INV-20260908,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-08,INV-20260908,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-08,INV-20260908,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-08,INV-20260908,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-08,INV-20260908,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-08,INV-20260908,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-09,INV-20260909,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-09,INV-20260909,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-09,INV-20260909,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-09,INV-20260909,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-09,INV-20260909,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-09,INV-20260909,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-10,INV-20260910,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-10,INV-20260910,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-10,INV-20260910,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-10,INV-20260910,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-10,INV-20260910,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-10,INV-20260910,Maggi 70g,MAGGI-70,Grocery,0,14,11,,no,Metro Wholesale,2,24,24,24
+2026-09-11,INV-20260911,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-11,INV-20260911,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-11,INV-20260911,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-11,INV-20260911,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-11,INV-20260911,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-11,INV-20260911,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-12,INV-20260912,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-12,INV-20260912,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-12,INV-20260912,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-12,INV-20260912,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-12,INV-20260912,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-12,INV-20260912,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-13,INV-20260913,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-13,INV-20260913,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-13,INV-20260913,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-13,INV-20260913,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-13,INV-20260913,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-13,INV-20260913,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-09-13,INV-20260913,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-14,INV-20260914,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-14,INV-20260914,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-14,INV-20260914,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-14,INV-20260914,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-14,INV-20260914,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-14,INV-20260914,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-15,INV-20260915,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-15,INV-20260915,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-15,INV-20260915,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-15,INV-20260915,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-15,INV-20260915,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-15,INV-20260915,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-16,INV-20260916,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-16,INV-20260916,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-16,INV-20260916,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-16,INV-20260916,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-16,INV-20260916,Raincoat Medium,RAIN-M,Seasonal,2,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-16,INV-20260916,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-17,INV-20260917,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-17,INV-20260917,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-17,INV-20260917,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-17,INV-20260917,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-17,INV-20260917,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-17,INV-20260917,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-18,INV-20260918,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-18,INV-20260918,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-18,INV-20260918,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-18,INV-20260918,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-18,INV-20260918,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-18,INV-20260918,Ayurvedic Hair Oil,OIL-01,Slow,1,180,120,8,yes,Neighbourhood Pharma,10,1,1,2
+2026-09-18,INV-20260918,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-19,INV-20260919,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-19,INV-20260919,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-19,INV-20260919,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-19,INV-20260919,Cycle Agarbatti,AGAR-01,Pooja,7,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-19,INV-20260919,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-19,INV-20260919,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-09-19,INV-20260919,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-20,INV-20260920,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-20,INV-20260920,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-20,INV-20260920,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-20,INV-20260920,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-20,INV-20260920,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-20,INV-20260920,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-21,INV-20260921,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-21,INV-20260921,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-21,INV-20260921,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-21,INV-20260921,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-21,INV-20260921,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-21,INV-20260921,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-22,INV-20260922,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-22,INV-20260922,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-22,INV-20260922,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-22,INV-20260922,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-22,INV-20260922,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-22,INV-20260922,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-23,INV-20260923,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-23,INV-20260923,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-23,INV-20260923,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-23,INV-20260923,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-23,INV-20260923,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-23,INV-20260923,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-24,INV-20260924,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-24,INV-20260924,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-24,INV-20260924,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-24,INV-20260924,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-24,INV-20260924,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-24,INV-20260924,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-25,INV-20260925,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-25,INV-20260925,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-25,INV-20260925,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-25,INV-20260925,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-25,INV-20260925,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-25,INV-20260925,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-09-25,INV-20260925,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-26,INV-20260926,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-26,INV-20260926,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-26,INV-20260926,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-26,INV-20260926,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-26,INV-20260926,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-26,INV-20260926,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-27,INV-20260927,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-27,INV-20260927,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-27,INV-20260927,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-27,INV-20260927,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-27,INV-20260927,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-27,INV-20260927,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-28,INV-20260928,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-28,INV-20260928,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-28,INV-20260928,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-28,INV-20260928,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-28,INV-20260928,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-28,INV-20260928,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-29,INV-20260929,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-29,INV-20260929,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-29,INV-20260929,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-29,INV-20260929,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-29,INV-20260929,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-29,INV-20260929,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-09-30,INV-20260930,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-09-30,INV-20260930,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-09-30,INV-20260930,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-09-30,INV-20260930,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-09-30,INV-20260930,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-09-30,INV-20260930,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-01,INV-20261001,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-01,INV-20261001,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-01,INV-20261001,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-01,INV-20261001,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-01,INV-20261001,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-10-01,INV-20261001,ORS Sachet,ORS-01,Medical,4,22,15,,yes,Neighbourhood Pharma,2,10,10,12
+2026-10-01,INV-20261001,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-01,INV-20261001,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-02,INV-20261002,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-02,INV-20261002,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-02,INV-20261002,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-02,INV-20261002,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-02,INV-20261002,Raincoat Medium,RAIN-M,Seasonal,1,350,260,,yes,Monsoon Goods,7,1,1,2
+2026-10-02,INV-20261002,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-02,INV-20261002,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-03,INV-20261003,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-03,INV-20261003,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-03,INV-20261003,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-03,INV-20261003,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-03,INV-20261003,Raincoat Medium,RAIN-M,Seasonal,1,350,260,11,yes,Monsoon Goods,7,1,1,2
+2026-10-03,INV-20261003,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-03,INV-20261003,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-04,INV-20261004,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-04,INV-20261004,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-04,INV-20261004,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-04,INV-20261004,Cycle Agarbatti,AGAR-01,Pooja,8,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-04,INV-20261004,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-04,INV-20261004,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-05,INV-20261005,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-05,INV-20261005,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-05,INV-20261005,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-05,INV-20261005,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-05,INV-20261005,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-05,INV-20261005,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-06,INV-20261006,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-06,INV-20261006,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-06,INV-20261006,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-06,INV-20261006,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-06,INV-20261006,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-06,INV-20261006,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-07,INV-20261007,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-07,INV-20261007,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-07,INV-20261007,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-07,INV-20261007,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-07,INV-20261007,ORS Sachet,ORS-01,Medical,4,22,15,30,yes,Neighbourhood Pharma,2,10,10,12
+2026-10-07,INV-20261007,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-07,INV-20261007,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-08,INV-20261008,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-08,INV-20261008,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-08,INV-20261008,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-08,INV-20261008,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-08,INV-20261008,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-08,INV-20261008,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-09,INV-20261009,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-09,INV-20261009,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-09,INV-20261009,Parle-G 800g,PARLE-800,Grocery,6,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-09,INV-20261009,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-09,INV-20261009,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-09,INV-20261009,Maggi 70g,MAGGI-70,Grocery,8,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-10,INV-20261010,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-10,INV-20261010,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-10,INV-20261010,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-10,INV-20261010,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-10,INV-20261010,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-10,INV-20261010,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-11,INV-20261011,Amul Butter 100g,BUTTER-100,Dairy,7,60,52,,yes,City Dairy Supply,3,10,10,12
+2026-10-11,INV-20261011,Tata Salt 1kg,SALT-1,Grocery,4,28,22,,yes,Metro Wholesale,2,20,20,16
+2026-10-11,INV-20261011,Parle-G 800g,PARLE-800,Grocery,9,90,78,,yes,Metro Wholesale,4,12,12,10
+2026-10-11,INV-20261011,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,,yes,Pooja Traders,5,10,10,8
+2026-10-11,INV-20261011,Protein Bar,BAR-01,New,2,80,55,,yes,City Dairy Supply,6,6,6,4
+2026-10-11,INV-20261011,Maggi 70g,MAGGI-70,Grocery,11,14,11,,yes,Metro Wholesale,2,24,24,24
+2026-10-12,INV-20261012,Amul Butter 100g,BUTTER-100,Dairy,5,60,52,24,yes,City Dairy Supply,3,10,10,12
+2026-10-12,INV-20261012,Tata Salt 1kg,SALT-1,Grocery,4,28,22,40,yes,Metro Wholesale,2,20,20,16
+2026-10-12,INV-20261012,Parle-G 800g,PARLE-800,Grocery,6,90,78,18,yes,Metro Wholesale,4,12,12,10
+2026-10-12,INV-20261012,Cycle Agarbatti,AGAR-01,Pooja,9,45,30,16,yes,Pooja Traders,5,10,10,8
+2026-10-12,INV-20261012,Protein Bar,BAR-01,New,2,80,55,10,yes,City Dairy Supply,6,6,6,4
+2026-10-12,INV-20261012,Maggi 70g,MAGGI-70,Grocery,8,14,11,48,yes,Metro Wholesale,2,24,24,24

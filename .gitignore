@@ -1,0 +1,45 @@
+# Local agent memory. These root files are working state, not project docs.
+/memory.md
+/message.md
+/new-feature-changeprompt.md
+/NOTES.md
+/TASKS.md
+/docs
+/dev-post.md
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+backend/.venv/
+
+# Node
+node_modules/
+frontend/dist/
+frontend/node_modules/
+*.tsbuildinfo
+
+# Local application data and model weights
+data/
+*.db
+*.sqlite
+*.sqlite3
+*.safetensors
+*.ckpt
+*.bin
+
+# OS and editors
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+.cursor

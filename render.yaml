@@ -1,0 +1,73 @@
+# Render Blueprint.
+# Apply this from the Render dashboard with "New Blueprint".
+# Paste NEXT_PUBLIC_SUPABASE_URL and SUPABASE_SECRET_KEY when Render asks.
+# Leave SUPABASE_DB_URL blank. The API talks to Supabase through the Data API.
+# Paste TABPFN_API_KEY and LLM_API_KEY in that same prompt. Leave a key blank
+# to keep the named baseline or the template explanation.
+services:
+  - type: web
+    name: dukaandost-api
+    runtime: python
+    plan: free
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.12.8"
+      - key: SUPABASE_DB_URL
+        sync: false
+      - key: NEXT_PUBLIC_SUPABASE_URL
+        sync: false
+      - key: NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY
+        sync: false
+      - key: SUPABASE_SECRET_KEY
+        sync: false
+      - key: TABPFN_API_KEY
+        sync: false
+      - key: TABPFN_ENABLED
+        value: "1"
+      - key: TABPFN_MODEL_VERSION
+        value: v2
+      - key: LLM_BASE_URL
+        value: https://generativelanguage.googleapis.com/v1beta/openai
+      - key: LLM_MODEL
+        value: gemma-4-26b-a4b-it
+      - key: LLM_API_KEY
+        sync: false
+      - key: LLM_TIMEOUT
+        value: "240"
+      - key: LLM_MAX_RPM
+        value: "10"
+      - key: LLM_MAX_WAIT
+        value: "45"
+      - key: LLM_THINKING_LEVEL
+        value: minimal
+      - key: LLM_MAX_PER_DAY
+        value: "300"
+      - key: SUBMIT_LIMIT
+        value: "8"
+      - key: FORECAST_ASYNC
+        value: "1"
+      - key: FRONTEND_ORIGIN
+        value: https://dukaandost-web.onrender.com
+      - key: CORS_ORIGINS
+        value: https://dukaandost-web.onrender.com
+
+  - type: web
+    name: dukaandost-web
+    runtime: static
+    rootDir: frontend
+    buildCommand: npm ci && npm run build
+    staticPublishPath: dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_BASE
+        fromService:
+          name: dukaandost-api
+          type: web
+          envVarKey: RENDER_EXTERNAL_URL

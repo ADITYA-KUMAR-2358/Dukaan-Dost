@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+sqlalchemy==2.0.36
+psycopg[binary]==3.2.3
+supabase==2.18.1
+pydantic==2.10.4
+pydantic-settings==2.7.0
+pandas==2.2.3
+numpy==2.2.1
+scikit-learn==1.6.0
+python-multipart==0.0.20
+httpx==0.28.1
+
+# Hosted TabPFN. The API key is TABPFN_API_KEY. This package does not download
+# local weights. If the key is empty, forecasts stay on a named baseline.
+tabpfn-client==0.2.7

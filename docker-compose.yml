@@ -1,0 +1,36 @@
+services:
+  backend:
+    build: ./backend
+    environment:
+      SUPABASE_DB_URL: ${SUPABASE_DB_URL:-}
+      NEXT_PUBLIC_SUPABASE_URL: ${NEXT_PUBLIC_SUPABASE_URL:-}
+      NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY: ${NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY:-}
+      SUPABASE_SECRET_KEY: ${SUPABASE_SECRET_KEY:-}
+      CORS_ORIGINS: http://localhost:8080
+      FORECAST_ASYNC: "1"
+      TABPFN_ENABLED: "1"
+      TABPFN_MODEL_VERSION: v2
+      TABPFN_API_KEY: ""
+      LLM_BASE_URL: https://generativelanguage.googleapis.com/v1beta/openai
+      LLM_MODEL: gemma-4-26b-a4b-it
+      LLM_API_KEY: ""
+      LLM_TIMEOUT: "240"
+      LLM_MAX_RPM: "10"
+      LLM_MAX_WAIT: "45"
+      LLM_THINKING_LEVEL: minimal
+      LLM_MAX_PER_DAY: "300"
+      SUBMIT_LIMIT: "8"
+    volumes:
+      - dukaan-data:/app/data
+    expose:
+      - "8000"
+
+  frontend:
+    build: ./frontend
+    ports:
+      - "8080:80"
+    depends_on:
+      - backend
+
+volumes:
+  dukaan-data:
